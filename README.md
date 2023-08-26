@@ -1,6 +1,6 @@
 # Cryptocurrency-Price-Tracker
 
-Description:
+##Description:
 I recently developed a dynamic web application that tracks and displays real-time Bitcoin prices using HTML and JavaScript. This project showcases my skills in web development, data retrieval, and user interface design.
 
 Key Features:
