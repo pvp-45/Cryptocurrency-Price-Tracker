@@ -5,17 +5,22 @@ I recently developed a dynamic web application that tracks and displays real-tim
 
 ## Key Features:
 
-### Real-time Updates: The application fetches the latest Bitcoin price from a cryptocurrency API and updates it in real-time, providing users with accurate and up-to-date information.
+### Real-time Updates: 
+The application fetches the latest Bitcoin price from a cryptocurrency API and updates it in real-time, providing users with accurate and up-to-date information.
 
-### Automated Refresh: To ensure users always have access to the most current information, I implemented an automatic data refresh mechanism, updating the Bitcoin price every minute without the need for manual intervention.
+### Automated Refresh: 
+To ensure users always have access to the most current information, I implemented an automatic data refresh mechanism, updating the Bitcoin price every minute without the need for manual intervention.
 
-### Error Handling: In cases where the API request fails, the application gracefully handles errors, providing users with informative messages while maintaining a polished user interface.
+### Error Handling: 
+In cases where the API request fails, the application gracefully handles errors, providing users with informative messages while maintaining a polished user interface.
 
 ## Technologies Used:
 
-### HTML: The project's structure and content are built using HTML, providing a solid foundation for the webpage.
+### HTML: 
+The project's structure and content are built using HTML, providing a solid foundation for the webpage.
 
-### JavaScript: The core functionality of the application is powered by JavaScript. I employed JavaScript to make asynchronous HTTP requests, update the DOM in real-time, and manage the auto-refresh feature.
+### JavaScript: 
+The core functionality of the application is powered by JavaScript. I employed JavaScript to make asynchronous HTTP requests, update the DOM in real-time, and manage the auto-refresh feature.
 
 ## Learning Outcomes:
 
